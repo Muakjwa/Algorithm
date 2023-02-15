@@ -8,75 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65f832baf11c512d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9fda14cebf87457a",
+            "id": "56ff5d5a932b96a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implementation/BOJ_10807.md",
+                "file": "Dynamic Programming/BOJ_14501.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b759672e7d29021f",
+            "id": "c67291c810ba05ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming/BOJ_11052.md",
+                "file": "Dynamic Programming/BOJ_12865.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8b93ba1996e027d6",
+            "id": "aeadfc8816ee71a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming/BOJ_9251.md",
+                "file": "Dynamic Programming/BOJ_1904 X.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f0f719e1c329990b",
+            "id": "ca72a99467812872",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming/BOJ_11051.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c6b91b09954de9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Programming/BOJ_1520.md",
+                "file": "Math/BOJ_1011.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming/BOJ_1520.md",
+                "file": "Math/BOJ_1011.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming/BOJ_1520.md",
+                "file": "Math/BOJ_1011.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming/BOJ_1520.md"
+                "file": "Math/BOJ_1011.md"
               }
             }
           }
@@ -203,8 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c6b91b09954de9a",
+  "active": "ca72a99467812872",
   "lastOpenFiles": [
+    "Dynamic Programming/BOJ_1904 X.md",
+    "Dynamic Programming/BOJ_12865.md",
+    "Dynamic Programming/BOJ_14501.md",
+    "Dynamic Programming/BOJ_1520.md",
     "Dynamic Programming/BOJ_11051.md",
     "Dynamic Programming/BOJ_9251.md",
     "Dynamic Programming/BOJ_11052.md",
