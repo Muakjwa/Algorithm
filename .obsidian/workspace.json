@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56ff5d5a932b96a4",
+            "id": "d2f85cbc6a042c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming/BOJ_14501.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c67291c810ba05ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Programming/BOJ_12865.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aeadfc8816ee71a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Programming/BOJ_1904 X.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca72a99467812872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/BOJ_1011.md",
+                "file": "BruteForce/BOJ_1977.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/BOJ_1011.md",
+                "file": "BruteForce/BOJ_1977.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/BOJ_1011.md",
+                "file": "BruteForce/BOJ_1977.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/BOJ_1011.md"
+                "file": "BruteForce/BOJ_1977.md"
               }
             }
           }
@@ -183,16 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca72a99467812872",
+  "active": "d2f85cbc6a042c44",
   "lastOpenFiles": [
+    "Math/BOJ_1011.md",
     "Dynamic Programming/BOJ_1904 X.md",
     "Dynamic Programming/BOJ_12865.md",
+    "BruteForce/BOJ_1977.md",
     "Dynamic Programming/BOJ_14501.md",
     "Dynamic Programming/BOJ_1520.md",
     "Dynamic Programming/BOJ_11051.md",
     "Dynamic Programming/BOJ_9251.md",
     "Dynamic Programming/BOJ_11052.md",
-    "Implementation/BOJ_10807.md",
-    "BOJ_25083.md"
+    "Implementation/BOJ_10807.md"
   ]
 }
