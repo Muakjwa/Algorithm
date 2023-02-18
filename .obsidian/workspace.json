@@ -78,9 +78,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "911f56031299bb13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/BOJ_9375.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d997b481ce65c213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph/BOJ_10026.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "569a95161e68dcd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure/BOJ_11286.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e824c0f4daeade7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure/BOJ_11723.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "298c2c6813697ca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BruteForce/BOJ_14500.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be317d74f1833c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -146,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DivideAndConquer/BOJ_2630.md",
+                "file": "BruteForce/BOJ_14500.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DivideAndConquer/BOJ_2630.md",
+                "file": "BruteForce/BOJ_14500.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DivideAndConquer/BOJ_2630.md"
+                "file": "BruteForce/BOJ_14500.md"
               }
             }
           }
@@ -207,17 +279,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f44657c34e7eb0dd",
+  "active": "298c2c6813697ca2",
   "lastOpenFiles": [
+    "Data Structure/BOJ_11723.md",
+    "Data Structure/BOJ_11286.md",
+    "Python Guide.md",
+    "Graph/BOJ_10026.md",
+    "Math/BOJ_9375.md",
+    "DivideAndConquer/BOJ_2630.md",
     "DivideAndConquer/BOJ_1992.md",
     "Greedy/BOJ_1931.md",
     "DivideAndConquer/BOJ_1780.md",
-    "Math/BOJ_1676.md",
-    "String/BOJ_15829.md",
-    "BruteForce/BOJ_1977.md",
-    "Math/BOJ_1011.md",
-    "Dynamic Programming/BOJ_1904 X.md",
-    "Dynamic Programming/BOJ_12865.md",
-    "Dynamic Programming/BOJ_14501.md"
+    "Math/BOJ_1676.md"
   ]
 }
