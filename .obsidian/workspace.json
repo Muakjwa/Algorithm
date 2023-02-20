@@ -4,155 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "8129c1823ef5c1ae",
+        "id": "c91e7d4ee4c118d8",
         "type": "tabs",
         "children": [
           {
-            "id": "2f426623c01a83b7",
+            "id": "92dc4857ab553c46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String/BOJ_15829.md",
+                "file": "BruteForce/BOJ_1018.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5dfc985b4eaf179e",
+            "id": "be1d544a284da2b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/BOJ_1676.md",
+                "file": "String/BOJ_1181.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "09fef78c540a2ce0",
+            "id": "015dd947e0f5a3b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DivideAndConquer/BOJ_1780.md",
+                "file": "Sort/BOJ_10989.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "058802a7e3b5bc92",
+            "id": "5b323904ac894c05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greedy/BOJ_1931.md",
+                "file": "BruteForce/BOJ_1107.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6cdb1e4bf1e065c6",
+            "id": "b025486df5ddb8ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DivideAndConquer/BOJ_1992.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f44657c34e7eb0dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DivideAndConquer/BOJ_2630.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "911f56031299bb13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/BOJ_9375.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d997b481ce65c213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph/BOJ_10026.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "569a95161e68dcd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structure/BOJ_11286.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e824c0f4daeade7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structure/BOJ_11723.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "298c2c6813697ca2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BruteForce/BOJ_14500.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be317d74f1833c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python Guide.md",
+                "file": "Sort/BOJ_11399.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -218,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BruteForce/BOJ_14500.md",
+                "file": "Sort/BOJ_11399.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BruteForce/BOJ_14500.md",
+                "file": "Sort/BOJ_11399.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BruteForce/BOJ_14500.md"
+                "file": "Sort/BOJ_11399.md"
               }
             }
           }
@@ -279,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "298c2c6813697ca2",
+  "active": "b025486df5ddb8ab",
   "lastOpenFiles": [
+    "BruteForce/BOJ_1107.md",
+    "Sort/BOJ_10989.md",
+    "String/BOJ_1181.md",
+    "BruteForce/BOJ_1018.md",
+    "Python Guide.md",
+    "BruteForce/BOJ_14500.md",
     "Data Structure/BOJ_11723.md",
     "Data Structure/BOJ_11286.md",
-    "Python Guide.md",
     "Graph/BOJ_10026.md",
-    "Math/BOJ_9375.md",
-    "DivideAndConquer/BOJ_2630.md",
-    "DivideAndConquer/BOJ_1992.md",
-    "Greedy/BOJ_1931.md",
-    "DivideAndConquer/BOJ_1780.md",
-    "Math/BOJ_1676.md"
+    "Math/BOJ_9375.md"
   ]
 }
