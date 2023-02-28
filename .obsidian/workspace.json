@@ -8,103 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c8a4d5eef95f4fa",
+            "id": "c5ff66a8ea2fc5ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greedy/BOJ_5585.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3b064eb09e6e754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Greedy/BOJ_1026.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd5ec73188d98b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Greedy/BOJ_2217.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15f6e2d01d1298cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Greedy/BOJ_1789.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac35f187bb71b282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Greedy/BOJ_10162.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4a9ddc710cd93c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Greedy/BOJ_13305.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad34c7296d2f6627",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Greedy/BOJ_1439.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f812a6273f6dfea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Implementation/BOJ_14503.md",
+                "file": "Dynamic Programming/BOJ_14002.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementation/BOJ_14503.md",
+                "file": "Dynamic Programming/BOJ_14002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implementation/BOJ_14503.md",
+                "file": "Dynamic Programming/BOJ_14002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implementation/BOJ_14503.md"
+                "file": "Dynamic Programming/BOJ_14002.md"
               }
             }
           }
@@ -231,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f812a6273f6dfea1",
+  "active": "c5ff66a8ea2fc5ce",
   "lastOpenFiles": [
-    "Greedy/BOJ_1439.md",
     "Implementation/BOJ_14503.md",
+    "Greedy/BOJ_1439.md",
     "Greedy/BOJ_13305.md",
+    "Dynamic Programming/BOJ_14002.md",
     "Greedy/BOJ_10162.md",
     "Greedy/BOJ_1789.md",
     "Greedy/BOJ_2217.md",
@@ -257,7 +173,6 @@
     "Data Structure/BOJ_1904.md",
     "Data Structure/BOJ_17298.md",
     "Data Structure/BOJ_9935.md",
-    "Data Structure/BOJ_14425.md",
-    "Data Structure/BOJ_2493.md"
+    "Data Structure/BOJ_14425.md"
   ]
 }
