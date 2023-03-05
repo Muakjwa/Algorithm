@@ -8,163 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a09e990603fd2fa",
+            "id": "048c188d547b982b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sort/BOJ_2752.md",
+                "file": "Implementation/BOJ_17144.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "be880ad20205d3e1",
+            "id": "15e4ea36ae2f6022",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sort/BOJ_2587.md",
+                "file": "DivideAndConquer/BOJ_1074.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "13527eb8384eba76",
+            "id": "b85b3a120ee66314",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sort/BOJ_11656.md",
+                "file": "Dynamic Programming/BOJ_17626.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ecd8527ea21f8c91",
+            "id": "eb6a5bbce67bca9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sort/BOJ_1946.md",
+                "file": "Data Structure/BOJ_17219.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "589b162ad8cf4aaa",
+            "id": "02eeae49a35bb339",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sort/BOJ_25305.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d77cd6a3aeee8615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sort/BOJ_11728.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3949f039cb62225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sort/BOJ_2470.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "821a2c6f4bb6ffa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sort/BOJ_3273.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2aaa0786681e63c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Back Tracking/BOJ_15654.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "601ca4e1fc7215a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Back Tracking/BOJ_15657.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cee5a4c38d58158d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Back Tracking/BOJ_15666.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d957dc8af5ed540a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph/BOJ_16953.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbe5e47b710ea7e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structure/BOJ_1918.md",
+                "file": "Graph/BOJ_16928.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -230,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/BOJ_1918.md",
+                "file": "Graph/BOJ_16928.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure/BOJ_1918.md",
+                "file": "Graph/BOJ_16928.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure/BOJ_1918.md"
+                "file": "Graph/BOJ_16928.md"
               }
             }
           }
@@ -291,19 +195,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbe5e47b710ea7e8",
+  "active": "02eeae49a35bb339",
   "lastOpenFiles": [
-    "Graph/BOJ_16953.md",
+    "Data Structure/BOJ_17219.md",
+    "Graph/BOJ_16928.md",
+    "Dynamic Programming/BOJ_17626.md",
+    "DivideAndConquer/BOJ_1074.md",
+    "Implementation/BOJ_17144.md",
     "Data Structure/BOJ_1918.md",
+    "Graph/BOJ_16953.md",
     "Back Tracking/BOJ_15666.md",
     "Back Tracking/BOJ_15657.md",
     "Back Tracking/BOJ_15654.md",
     "Sort/BOJ_3273.md",
-    "Back Tracking",
     "Sort/BOJ_2470.md",
     "Sort/BOJ_11728.md",
     "Sort/BOJ_25305.md",
     "Sort/BOJ_1946.md",
+    "Back Tracking",
     "Sort/BOJ_11656.md",
     "Sort/BOJ_2587.md",
     "Sort/BOJ_2752.md",
@@ -314,11 +223,6 @@
     "Floyd-Warshall/BOJ_11403.md",
     "Dynamic Programming/BOJ_14002.md",
     "Implementation/BOJ_14503.md",
-    "Greedy/BOJ_1439.md",
-    "Greedy/BOJ_13305.md",
-    "Greedy/BOJ_10162.md",
-    "Greedy/BOJ_1789.md",
-    "Greedy/BOJ_2217.md",
-    "Greedy/BOJ_1026.md"
+    "Greedy/BOJ_1439.md"
   ]
 }
