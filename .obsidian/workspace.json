@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "212c0b9e2bfd39ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String/BOJ_4999.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "581b230e7c939f42",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dijkstra/BOJ_1753.md",
+                "file": "String/BOJ_4999.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dijkstra/BOJ_1753.md",
+                "file": "String/BOJ_4999.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dijkstra/BOJ_1753.md"
+                "file": "String/BOJ_4999.md"
               }
             }
           }
@@ -158,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff60f4ea5887e7f6",
+  "active": "212c0b9e2bfd39ca",
   "lastOpenFiles": [
-    "Dijkstra/BOJ_1916.md",
     "Dijkstra/BOJ_1753.md",
+    "String/BOJ_4999.md",
+    "String/Untitled",
+    "Dijkstra/BOJ_1916.md",
     "Graph/BOJ_16928.md",
     "Dijkstra",
     "Data Structure/BOJ_17219.md",
@@ -186,7 +201,6 @@
     "Graph/BOJ_2206.md",
     "Graph/BOJ_1987.md",
     "Graph/BOJ_2178.md",
-    "Floyd-Warshall/BOJ_11403.md",
-    "Dynamic Programming/BOJ_14002.md"
+    "Floyd-Warshall/BOJ_11403.md"
   ]
 }
