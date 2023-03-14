@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DivideAndConquer/BOJ_10830.md",
+                "file": "Dijkstra/BOJ_1238.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e08d5a957036a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dijkstra/BOJ_14938.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DivideAndConquer/BOJ_10830.md",
+                "file": "Dijkstra/BOJ_14938.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DivideAndConquer/BOJ_10830.md",
+                "file": "Dijkstra/BOJ_14938.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DivideAndConquer/BOJ_10830.md"
+                "file": "Dijkstra/BOJ_14938.md"
               }
             }
           }
@@ -171,14 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8096b8b1ffb7f561",
+  "active": "6e08d5a957036a7b",
   "lastOpenFiles": [
-    "Dynamic Programming/BOJ_2096.md",
+    "Dijkstra/BOJ_1238.md",
+    "Dijkstra/BOJ_14938.md",
     "DivideAndConquer/BOJ_10830.md",
+    "Dynamic Programming/BOJ_2096.md",
     "Recursion/BOJ_2448.md",
     "BruteForce/BOJ_2003.md",
     "Recursion",
-    "Dijkstra/BOJ_1238.md",
     "Dijkstra/BOJ_1916.md",
     "String/BOJ_4999.md",
     "String/BOJ_2935.md",
@@ -201,7 +214,6 @@
     "Sort/BOJ_25305.md",
     "Sort/BOJ_1946.md",
     "Back Tracking",
-    "Sort/BOJ_11656.md",
-    "Sort/BOJ_2587.md"
+    "Sort/BOJ_11656.md"
   ]
 }
