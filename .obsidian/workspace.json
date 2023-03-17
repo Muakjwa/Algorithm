@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba6f9a1e424860e7",
+            "id": "b22c250c21ad5812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/BOJ_1715.md",
+                "file": "Data Structure/BOJ_17413.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1059ab260f58605f",
+            "id": "501db21bfd7ab69c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/BOJ_1655.md",
+                "file": "Data Structure/BOJ_1269.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/BOJ_1655.md",
+                "file": "Data Structure/BOJ_1269.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure/BOJ_1655.md",
+                "file": "Data Structure/BOJ_1269.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure/BOJ_1655.md"
+                "file": "Data Structure/BOJ_1269.md"
               }
             }
           }
@@ -159,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1059ab260f58605f",
+  "active": "501db21bfd7ab69c",
   "lastOpenFiles": [
-    "Data Structure/BOJ_1715.md",
+    "Data Structure/BOJ_17413.md",
+    "Data Structure/BOJ_1269.md",
     "Data Structure/BOJ_1655.md",
+    "Data Structure/BOJ_1715.md",
     "Implementation/BOJ_1009.md",
     "Dijkstra/BOJ_14938.md",
     "Dijkstra/BOJ_1238.md",
@@ -188,8 +190,6 @@
     "Back Tracking/BOJ_15657.md",
     "Back Tracking/BOJ_15654.md",
     "Sort/BOJ_3273.md",
-    "Sort/BOJ_2470.md",
-    "Sort/BOJ_11728.md",
     "Back Tracking"
   ]
 }
