@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1b34b78eb88a2870",
+        "id": "e7fb6c446bd2ece7",
         "type": "tabs",
         "children": [
           {
-            "id": "00aa01843e5f22ad",
+            "id": "0112b1e9031d88d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/BOJ_5397.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4820e483b732bc76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structure/BOJ_1302.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab4c05b6975ad84c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structure/BOJ_11000.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "200579950a62dff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BruteForce/BOJ_1759.md",
+                "file": "Greedy/BOJ_1339.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BruteForce/BOJ_1759.md",
+                "file": "Greedy/BOJ_1339.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BruteForce/BOJ_1759.md",
+                "file": "Greedy/BOJ_1339.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BruteForce/BOJ_1759.md"
+                "file": "Greedy/BOJ_1339.md"
               }
             }
           }
@@ -183,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b1e775b2eaa015c",
+  "active": "0112b1e9031d88d5",
   "lastOpenFiles": [
-    "Data Structure/BOJ_11000.md",
+    "Greedy/BOJ_1339.md",
+    "Data Structure/BOJ_1976.md",
+    "Data Structure/BOJ_1717.md",
     "BruteForce/BOJ_1759.md",
+    "Data Structure/BOJ_11000.md",
+    "Python Guide.md",
+    "Math/BOJ_2108.md",
     "Data Structure/BOJ_1302.md",
     "Data Structure/BOJ_5397.md",
     "Data Structure/BOJ_1269.md",
@@ -209,11 +177,6 @@
     "Graph/BOJ_16928.md",
     "Dijkstra",
     "Data Structure/BOJ_17219.md",
-    "Dynamic Programming/BOJ_17626.md",
-    "DivideAndConquer/BOJ_1074.md",
-    "Implementation/BOJ_17144.md",
-    "Data Structure/BOJ_1918.md",
-    "Graph/BOJ_16953.md",
     "Back Tracking"
   ]
 }
