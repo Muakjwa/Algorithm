@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5eff3f1de60acc81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure/BOJ_11478.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/BOJ_2504.md",
+                "file": "Data Structure/BOJ_11478.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure/BOJ_2504.md",
+                "file": "Data Structure/BOJ_11478.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure/BOJ_2504.md"
+                "file": "Data Structure/BOJ_11478.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fa4ead2949994b8",
+  "active": "5eff3f1de60acc81",
   "lastOpenFiles": [
-    "Math/BOJ_4375.md",
     "Data Structure/BOJ_2504.md",
+    "Data Structure/BOJ_11478.md",
+    "Math/BOJ_4375.md",
     "Greedy/BOJ_1339.md",
     "Data Structure/BOJ_1976.md",
     "Data Structure/BOJ_1717.md",
@@ -187,7 +200,6 @@
     "Dijkstra/BOJ_1916.md",
     "String/BOJ_4999.md",
     "String/BOJ_2935.md",
-    "Dijkstra/BOJ_1753.md",
     "String/Untitled",
     "Dijkstra",
     "Back Tracking"
