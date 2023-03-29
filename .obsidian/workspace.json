@@ -4,71 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "e7fb6c446bd2ece7",
+        "id": "80694adc9893aed3",
         "type": "tabs",
         "children": [
           {
-            "id": "1530e54f80034dae",
+            "id": "3833de6d80d45f79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/BOJ_4375.md",
+                "file": "Data Structure/BOJ_1991.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1fa4ead2949994b8",
+            "id": "9cb479cf55cbc84b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/BOJ_2504.md",
+                "file": "Data Structure/BOJ_11725.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5eff3f1de60acc81",
+            "id": "10c1e635dbfc34cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/BOJ_1302.md",
+                "file": "Data Structure/BOJ_1967.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e389096a3d897282",
+            "id": "010a05983da0640a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/BOJ_1202.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94d4d938264bc91c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structure/BOJ_1935.md",
+                "file": "Data Structure/BOJ_1167.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/BOJ_1935.md",
+                "file": "Data Structure/BOJ_1167.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure/BOJ_1935.md",
+                "file": "Data Structure/BOJ_1167.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure/BOJ_1935.md"
+                "file": "Data Structure/BOJ_1167.md"
               }
             }
           }
@@ -195,10 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94d4d938264bc91c",
+  "active": "010a05983da0640a",
   "lastOpenFiles": [
-    "Data Structure/BOJ_1202.md",
+    "Data Structure/BOJ_1967.md",
+    "Data Structure/BOJ_1167.md",
+    "Data Structure/BOJ_11725.md",
+    "Data Structure/BOJ_1991.md",
     "Data Structure/BOJ_1935.md",
+    "Data Structure/BOJ_1202.md",
     "Data Structure/BOJ_1302.md",
     "Data Structure/BOJ_11478.md",
     "Data Structure/Untitled",
@@ -220,11 +212,7 @@
     "Dijkstra/BOJ_14938.md",
     "Dijkstra/BOJ_1238.md",
     "DivideAndConquer/BOJ_10830.md",
-    "Dynamic Programming/BOJ_2096.md",
-    "Recursion/BOJ_2448.md",
-    "BruteForce/BOJ_2003.md",
     "Recursion",
-    "Dijkstra/BOJ_1916.md",
     "String/Untitled",
     "Dijkstra",
     "Back Tracking"
